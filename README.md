@@ -1,8 +1,19 @@
-# React + Vite
+## Installation & Run
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+```bash
+git clone https://github.com/Au3Hatsawat/front-end-submission-internship.git
+cd front-end-submission-internship
+npm install
+npm run dev
+```
 
-Currently, two official plugins are available:
+## Data
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+https://github.com/Au3Hatsawat/back-end-submission-internship
+
+# Todo
+
+- [X] Home page or products list page
+- [X] Cart page
+- [X] Cart page can calculate total price with promotion sale
+- [ ] Unit test
